@@ -50,7 +50,6 @@ The setup is pretty straight forward, just download this repository as a zip and
 
 ### DATABASE
 Since I don't want you to be installing anything on your computer or use the terminal/command line/powershell if you're not comfortable with it. Download the portable version of SQLiteStudio to manage databases (https://sqlitestudio.pl/index.rvt?act=download). Download and extract the zip version for your operating system. 
-This a graphical tool to manage SQLite databases. Don't worry i will show you how to user it on the Workshop.
-
+This a graphical tool to manage SQLite databases. Don't worry i will show how to use this on the workshop, just have it ready to roll.
 
 
