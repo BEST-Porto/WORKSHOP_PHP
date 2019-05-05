@@ -15,16 +15,16 @@ A file called path/to/yourfile.php stored inside a public_html folder in your pe
 
 **Windows**
 * Make sure you are connected via FEUP’s VPN or eduroam.
-* Open File Explorer and type the following address in the address bar: \\samba.fe.up.pt
+* Open File Explorer and type the following address in the address bar: \\\\samba.fe.up.pt
 * Select “More Choices → Use a different account” (Windows 10 – others might be slightly different).
-* For username use “feupsig\upxxxxxxxxx” (where upxxxxxxxxx is your username) and for password your password.
+* For username use “feupsig\\upxxxxxxxxx” (where upxxxxxxxxx is your username) and for password your password.
 * Select the folder “upxxxxxxxxx”.
 
 **Mac**
 * Make sure you are connected via FEUP’s VPN or eduroam – if you’re having trouble connecting to FEUP’s VPN try going here and searching for “Configuração automática VPN L2TP MacOS para FEUP” .
 * Open Finder and select “Go → Connect To”.
 * Type smb://samba.fe.up.pt as your Server Address and click “Connect”.
-* For username use “feupsig\upxxxxxxxxx” (where upxxxxxxxxx is your username) and for password your password.
+* For username use “feupsig\\upxxxxxxxxx” (where upxxxxxxxxx is your username) and for password your password.
 * Select the folder “upxxxxxxxxx”.
 
 **Linux** 
@@ -33,5 +33,5 @@ A file called path/to/yourfile.php stored inside a public_html folder in your pe
 * Type "ssh://gnomo.fe.up.pt" as your Server Address and click “Connect” (some distributions might break up the address into “Service Type” (SSH) and “Server” (gnomo.fe.up.pt)).
 * For username use “upxxxxxxxxx” (where upxxxxxxxxx is your username) and for password your password.
 
-After this click on the clone or download button on this page, select the download zip option and extract everything on the folder public_html (if it doesn't exist create it, full path for windows: "\\samba.fe.up.pt\up20xxxxxxx\public_html")
+After this click on the clone or download button on this page, select the download zip option and extract everything on the folder public_html (if it doesn't exist create it, full path for windows: "\\\\samba.fe.up.pt\\up20xxxxxxx\\public_html")
 
