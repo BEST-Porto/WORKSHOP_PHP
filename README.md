@@ -2,7 +2,7 @@
 
 ## SETUP
 
-#### WEB SERVERS @ FEUP
+### WEB SERVERS @ FEUP
 These two servers are available at FEUP:
 
 **gnomo.fe.up.pt** - Is a development server accessible online from within FEUP or using VPN. This server reports compilation and runtime PHP errors and can be used for development.
@@ -43,7 +43,7 @@ Hello World
 IT is love IT is life
 ```
 
-#### Alternative to using FEUP WEB SERVERS
+### Alternative to using FEUP WEB SERVERS
 Just download the free version of the following program: https://www.mamp.info/en/
 
 The setup is pretty straight forward, just download this repository as a zip and use whatever folder you want. This will run locally on your computer so you access it on the browser with the link localhost:port/, port being the number you choose on the setup. For example: localhost:8080
