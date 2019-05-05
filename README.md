@@ -45,7 +45,7 @@ IT is love IT is life
 
 #### Alternative to using FEUP WEB SERVERS
 Just download the free version of the following program: https://www.mamp.info/en/
-The setup is pretty straight foward, just use download this repository as a zip and use whatever folder you want.
+The setup is pretty straight foward, just download this repository as a zip and use whatever folder you want.
 
 
 
