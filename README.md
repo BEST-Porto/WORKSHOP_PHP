@@ -3,6 +3,8 @@
 ## SETUP
 
 ### WEB SERVERS @ FEUP
+Disclaimer: If you're from FCUP, hmmmmmmmmmmmm, well let's be real you're not. BUT if you are... read this anyway, and check [this](#alternative-to-using-feup-web-servers) after.
+
 These two servers are available at FEUP:
 
 **gnomo.fe.up.pt** - Is a development server accessible online from within FEUP or using VPN. This server reports compilation and runtime PHP errors and can be used for development.
