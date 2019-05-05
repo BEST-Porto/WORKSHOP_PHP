@@ -48,5 +48,8 @@ Just download the free version of the following program: https://www.mamp.info/e
 
 The setup is pretty straight forward, just download this repository as a zip and use whatever folder you want. This will run locally on your computer so you access it on the browser with the link localhost:port/, port being the number you choose on the setup. For example: localhost:8080
 
+### DATABASE
+Since I don't want you to be installing anything on your computer or use the terminal/command line/powershell if you're not comfortable with it. Download the portable version of SQLiteStudio to manage databases (https://sqlitestudio.pl/index.rvt?act=download). Download and extract the zip version for your operating system.
+
 
 
