@@ -35,3 +35,11 @@ A file called path/to/yourfile.php stored inside a public_html folder in your pe
 
 After this click on the clone or download button on this page, select the download zip option and extract everything on the folder public_html (if it doesn't exist create it, full path for windows: "\\\\samba.fe.up.pt\\up20xxxxxxx\\public_html")
 
+To validate that everything is working till now put this following url in your browser: http://gnomo.fe.up.pt/~up20xxxxxxx/
+The following message should appear: 
+
+```
+Hello World 
+IT is love IT is life
+```
+
