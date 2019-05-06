@@ -3,7 +3,7 @@
 ## SETUP
 
 ### WEB SERVERS @ FEUP
-Disclaimer: If you're from FCUP, hmmmmmmmmmmmm, well let's be real you're not. BUT if you are... read this anyway since it is more detailed, and check [this](#alternative-to-using-feup-web-servers) after.
+If you're from FCUP, hmmmmmmmmmmmm, well let's be real you're not. BUT if you are... read this anyway since it is more detailed, and check [this](#alternative-to-using-feup-web-servers) after.
 
 These two servers are available at FEUP:
 
