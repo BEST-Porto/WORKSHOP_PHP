@@ -11,10 +11,10 @@
   <title>WORKSHOP PHP</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="../templates/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="./templates/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="../templates/css/scrolling-nav.css" rel="stylesheet">
+  <link href="./templates/css/scrolling-nav.css" rel="stylesheet">
 
 </head>
 
