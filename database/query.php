@@ -3,16 +3,16 @@
 function getAllUsers() {
 	//TODO
   global $dbh;
-  $stmt = $dbh->prepare("TODO");
+  $stmt = $dbh->prepare('SELECT * FROM user');
   $stmt->execute();
   return $stmt->fetchAll();
 }
 
 //TODO
-function insertUser(){
+function insertUser($name){
   global $dbh;
-  $stmt =$dbh->prepare();
-  $stmt->execute(array());
+  $stmt =$dbh->prepare('INSERT into user(name) values(?)');
+  $stmt->execute(array($name));
 }
 
 //TODO

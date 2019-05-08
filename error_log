@@ -1,0 +1,16 @@
+[08-May-2019 16:28:51 UTC] PHP Warning:  include_once(./tenplates/header.php): failed to open stream: No such file or directory in /home/bestpor/public_html/workshop/person6/index.php on line 3
+[08-May-2019 16:28:51 UTC] PHP Warning:  include_once(): Failed opening './tenplates/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/bestpor/public_html/workshop/person6/index.php on line 3
+[08-May-2019 16:28:51 UTC] PHP Warning:  include_once(./tenplates/footer.php): failed to open stream: No such file or directory in /home/bestpor/public_html/workshop/person6/index.php on line 5
+[08-May-2019 16:28:51 UTC] PHP Warning:  include_once(): Failed opening './tenplates/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/bestpor/public_html/workshop/person6/index.php on line 5
+[08-May-2019 16:29:22 UTC] PHP Warning:  include_once(./tenplates/header.php): failed to open stream: No such file or directory in /home/bestpor/public_html/workshop/person6/index.php on line 3
+[08-May-2019 16:29:22 UTC] PHP Warning:  include_once(): Failed opening './tenplates/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/bestpor/public_html/workshop/person6/index.php on line 3
+[08-May-2019 16:29:22 UTC] PHP Warning:  include_once(./tenplates/footer.php): failed to open stream: No such file or directory in /home/bestpor/public_html/workshop/person6/index.php on line 5
+[08-May-2019 16:29:22 UTC] PHP Warning:  include_once(): Failed opening './tenplates/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/bestpor/public_html/workshop/person6/index.php on line 5
+[08-May-2019 16:46:26 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bestpor/public_html/workshop/person6/action_createUser.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bestpor/public_html/workshop/person6/action_createUser.php on line 3
+[08-May-2019 16:51:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bestpor/public_html/workshop/person6/action_createUser.php:4) in /home/bestpor/public_html/workshop/person6/action_createUser.php on line 5
+[08-May-2019 16:55:46 UTC] PHP Warning:  session_start() expects parameter 1 to be array, string given in /home/bestpor/public_html/workshop/person6/action_createUser.php on line 5
+[08-May-2019 16:56:38 UTC] PHP Warning:  session_start() expects parameter 1 to be array, string given in /home/bestpor/public_html/workshop/person6/index.php on line 5
+[08-May-2019 17:03:57 UTC] PHP Warning:  session_start() expects parameter 1 to be array, string given in /home/bestpor/public_html/workshop/person6/index.php on line 5

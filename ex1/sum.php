@@ -1,9 +1,6 @@
 
 <div>
     <p> 
-        TODO
-    </p>
-    <p> 
-        TODO
+        <?= $_GET['x']+$_GET['y']; ?>
     </p>
 </div>

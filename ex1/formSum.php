@@ -1,8 +1,7 @@
 
 
 <div>
-    <p> TODO </p>
-    <p> TODO </p>
+    <p> <?= $_POST['x'] + $_POST['y'];?> </p>
 </div>
 
 
